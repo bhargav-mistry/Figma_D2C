@@ -8,6 +8,7 @@
 [![MCP](https://img.shields.io/badge/Protocol-MCP-6E56CF)](#)
 [![Figma](https://img.shields.io/badge/Figma-REST%20API-F24E1E?logo=figma&logoColor=white)](#configuration-personal-access-token)
 [![License](https://img.shields.io/badge/Community-Maintained-blue)](#)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=bhargav-mistry.Fig_MCP)](#)
 
 </div>
 
